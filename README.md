@@ -1,4 +1,4 @@
-# QIT Solutions
+# AQT and QIT Solutions
 
 #  Quantum Information Theory (QIT) & Advanced Quantum Theory (AQT) Solutions
 
