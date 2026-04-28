@@ -12,12 +12,11 @@ This repository contains **full solutions** for Advanced Quantum Theory (AQT) an
 Quantum mechanics has revolutionized our understanding of the physical world in the 20th century.  
 It is crucial to fundamental physics (like the Standard Model) and underpins technological advances from **transistors** to **lasers**.  
 
-Recent research exploits **quantum superposition** and **entanglement** for:
 
 - Quantum computing  
 - Quantum communication  
 
-## Topics Covered
+## Topics Covered for QIT_WS2025
 
 We explore key concepts necessary to understand **qubits and quantum technologies**:
 
@@ -25,8 +24,6 @@ We explore key concepts necessary to understand **qubits and quantum technologie
 - Density operator  
 - Entanglement and quantum channels  
 - Quantum measurement  
-
-> Note: Subject to time constraints; some topics may be covered only if time permits.
 
 ### Introduction
 - Dirac formalism, linear operators, unitary evolution  
